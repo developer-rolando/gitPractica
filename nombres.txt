@@ -1,3 +1,6 @@
 Rolando Garcia creo la rama Rolando
 
 Agrengando datos desde la rama develop
+
+Probando el comando git add -a -m
+
